@@ -2,7 +2,7 @@
 
 A simple Rock Paper Scissors game where a player competes against the computer. The game follows the classic rules: rock beats scissors, scissors beats paper, and paper beats rock.
 
-## 🎯 Game Rules
+##  Game Rules
 
 | Player's Choice | Computer's Choice | Result |
 |---|---|---|
@@ -11,12 +11,7 @@ A simple Rock Paper Scissors game where a player competes against the computer. 
 | Scissors | Paper | You win |
 | Same choice | Same choice | Draw |
 
-**Rules:**
-- 🪨 Rock beats ✂️ Scissors.
-- 📄 Paper beats 🪨 Rock.
-- ✂️ Scissors beats 📄 Paper.
-
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 rock_paper_scissors1/
